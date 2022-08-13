@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Ubuntu', sans-serif;
+
+    
+}
+.logo{
+    width: 3rem;
+}
+body{
+    background-image: url(./assets/bg2.jpg);
+    width: 100%;
+    float: left;
+    font-family: 'Ubuntu', sans-serif;
+    background-image: linear-gradient(45deg,#EEC0C6,#eec0c6bb, #7EE8FA,#eec0c6bb);
+    
+  
+}
+
+section{
+    margin: 20px;
+}
+.blogsection{
+    margin: 20px;
+   
+}
+p{
+    text-align: justify;
+}
+
+@media screen and (max-width:500px){
+  
+    
+}
