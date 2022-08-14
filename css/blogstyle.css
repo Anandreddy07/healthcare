@@ -8,7 +8,7 @@
     width: 3rem;
 }
 body{
-    background-image: url(./assets/bg2.jpg);
+    background-image: url(../images/bg2.jpg);
     width: 100%;
     float: left;
     font-family: 'Ubuntu', sans-serif;
@@ -28,7 +28,7 @@ hr{
     margin-bottom: 20px;
 
     column-count: 2;
-}
+}s
 .formbox1{
    
     margin-left: 20px;
